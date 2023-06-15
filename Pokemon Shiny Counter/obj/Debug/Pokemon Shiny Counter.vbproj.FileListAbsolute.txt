@@ -1,0 +1,42 @@
+D:\Tims VS Projekte\Pokemon Shiny Counter\Pokemon Shiny Counter\bin\Debug\Pokemon Shiny Counter.exe.config
+D:\Tims VS Projekte\Pokemon Shiny Counter\Pokemon Shiny Counter\bin\Debug\Pokemon Shiny Counter.exe
+D:\Tims VS Projekte\Pokemon Shiny Counter\Pokemon Shiny Counter\bin\Debug\Pokemon Shiny Counter.pdb
+D:\Tims VS Projekte\Pokemon Shiny Counter\Pokemon Shiny Counter\bin\Debug\Pokemon Shiny Counter.xml
+D:\Tims VS Projekte\Pokemon Shiny Counter\Pokemon Shiny Counter\obj\Debug\Pokemon_Shiny_Counter.Resources.resources
+D:\Tims VS Projekte\Pokemon Shiny Counter\Pokemon Shiny Counter\obj\Debug\Pokemon Shiny Counter.vbproj.GenerateResource.cache
+D:\Tims VS Projekte\Pokemon Shiny Counter\Pokemon Shiny Counter\obj\Debug\Pokemon Shiny Counter.vbproj.CoreCompileInputs.cache
+D:\Tims VS Projekte\Pokemon Shiny Counter\Pokemon Shiny Counter\obj\Debug\Pokemon Shiny Counter.exe
+D:\Tims VS Projekte\Pokemon Shiny Counter\Pokemon Shiny Counter\obj\Debug\Pokemon Shiny Counter.xml
+D:\Tims VS Projekte\Pokemon Shiny Counter\Pokemon Shiny Counter\obj\Debug\Pokemon Shiny Counter.pdb
+D:\Tims VS Projekte\Pokemon Shiny Counter\Pokemon Shiny Counter\obj\Debug\Pokemon_Shiny_Counter.Counter.resources
+D:\Tims VS Projekte\Pokemon Shiny Counter\Pokemon Shiny Counter\obj\Debug\Pokemon_Shiny_Counter.Dex.resources
+D:\Tims VS Projekte\Pokemon Shiny Counter\Pokemon Shiny Counter\obj\Debug\Pokemon Shiny Counter.vbproj.AssemblyReference.cache
+D:\Tims VS Projekte\Pokemon Shiny Counter\Pokemon Shiny Counter\obj\Debug\Pokemon Shiny Counter.vbproj.SuggestedBindingRedirects.cache
+D:\Tims VS Projekte\Pokemon Shiny Counter - Kopie\Pokemon Shiny Counter\bin\Debug\Pokemon Shiny Counter.exe.config
+D:\Tims VS Projekte\Pokemon Shiny Counter - Kopie\Pokemon Shiny Counter\bin\Debug\Pokemon Shiny Counter.exe
+D:\Tims VS Projekte\Pokemon Shiny Counter - Kopie\Pokemon Shiny Counter\bin\Debug\Pokemon Shiny Counter.pdb
+D:\Tims VS Projekte\Pokemon Shiny Counter - Kopie\Pokemon Shiny Counter\bin\Debug\Pokemon Shiny Counter.xml
+D:\Tims VS Projekte\Pokemon Shiny Counter - Kopie\Pokemon Shiny Counter\obj\Debug\Pokemon Shiny Counter.vbproj.AssemblyReference.cache
+D:\Tims VS Projekte\Pokemon Shiny Counter - Kopie\Pokemon Shiny Counter\obj\Debug\Pokemon Shiny Counter.vbproj.SuggestedBindingRedirects.cache
+D:\Tims VS Projekte\Pokemon Shiny Counter - Kopie\Pokemon Shiny Counter\obj\Debug\Pokemon_Shiny_Counter.Counter.resources
+D:\Tims VS Projekte\Pokemon Shiny Counter - Kopie\Pokemon Shiny Counter\obj\Debug\Pokemon_Shiny_Counter.Dex.resources
+D:\Tims VS Projekte\Pokemon Shiny Counter - Kopie\Pokemon Shiny Counter\obj\Debug\Pokemon_Shiny_Counter.Resources.resources
+D:\Tims VS Projekte\Pokemon Shiny Counter - Kopie\Pokemon Shiny Counter\obj\Debug\Pokemon Shiny Counter.vbproj.GenerateResource.cache
+D:\Tims VS Projekte\Pokemon Shiny Counter - Kopie\Pokemon Shiny Counter\obj\Debug\Pokemon Shiny Counter.vbproj.CoreCompileInputs.cache
+D:\Tims VS Projekte\Pokemon Shiny Counter - Kopie\Pokemon Shiny Counter\obj\Debug\Pokemon Shiny Counter.exe
+D:\Tims VS Projekte\Pokemon Shiny Counter - Kopie\Pokemon Shiny Counter\obj\Debug\Pokemon Shiny Counter.xml
+D:\Tims VS Projekte\Pokemon Shiny Counter - Kopie\Pokemon Shiny Counter\obj\Debug\Pokemon Shiny Counter.pdb
+E:\1TB-HDD - Kopie\Tims VS Projekte\Pokemon Shiny Counter - Kopie\Pokemon Shiny Counter\bin\Debug\Pokemon Shiny Counter.exe.config
+E:\1TB-HDD - Kopie\Tims VS Projekte\Pokemon Shiny Counter - Kopie\Pokemon Shiny Counter\bin\Debug\Pokemon Shiny Counter.exe
+E:\1TB-HDD - Kopie\Tims VS Projekte\Pokemon Shiny Counter - Kopie\Pokemon Shiny Counter\bin\Debug\Pokemon Shiny Counter.pdb
+E:\1TB-HDD - Kopie\Tims VS Projekte\Pokemon Shiny Counter - Kopie\Pokemon Shiny Counter\bin\Debug\Pokemon Shiny Counter.xml
+E:\1TB-HDD - Kopie\Tims VS Projekte\Pokemon Shiny Counter - Kopie\Pokemon Shiny Counter\obj\Debug\Pokemon Shiny Counter.vbproj.AssemblyReference.cache
+E:\1TB-HDD - Kopie\Tims VS Projekte\Pokemon Shiny Counter - Kopie\Pokemon Shiny Counter\obj\Debug\Pokemon Shiny Counter.vbproj.SuggestedBindingRedirects.cache
+E:\1TB-HDD - Kopie\Tims VS Projekte\Pokemon Shiny Counter - Kopie\Pokemon Shiny Counter\obj\Debug\Pokemon_Shiny_Counter.Counter.resources
+E:\1TB-HDD - Kopie\Tims VS Projekte\Pokemon Shiny Counter - Kopie\Pokemon Shiny Counter\obj\Debug\Pokemon_Shiny_Counter.Dex.resources
+E:\1TB-HDD - Kopie\Tims VS Projekte\Pokemon Shiny Counter - Kopie\Pokemon Shiny Counter\obj\Debug\Pokemon_Shiny_Counter.Resources.resources
+E:\1TB-HDD - Kopie\Tims VS Projekte\Pokemon Shiny Counter - Kopie\Pokemon Shiny Counter\obj\Debug\Pokemon Shiny Counter.vbproj.GenerateResource.cache
+E:\1TB-HDD - Kopie\Tims VS Projekte\Pokemon Shiny Counter - Kopie\Pokemon Shiny Counter\obj\Debug\Pokemon Shiny Counter.vbproj.CoreCompileInputs.cache
+E:\1TB-HDD - Kopie\Tims VS Projekte\Pokemon Shiny Counter - Kopie\Pokemon Shiny Counter\obj\Debug\Pokemon Shiny Counter.exe
+E:\1TB-HDD - Kopie\Tims VS Projekte\Pokemon Shiny Counter - Kopie\Pokemon Shiny Counter\obj\Debug\Pokemon Shiny Counter.xml
+E:\1TB-HDD - Kopie\Tims VS Projekte\Pokemon Shiny Counter - Kopie\Pokemon Shiny Counter\obj\Debug\Pokemon Shiny Counter.pdb
