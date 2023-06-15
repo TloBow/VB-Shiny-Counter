@@ -35,7 +35,7 @@
     Private Sub Open_btn_Click(sender As Object, e As EventArgs) Handles Open_btn.Click
         Dim dateidialog As OpenFileDialog = New OpenFileDialog
         dateidialog.FileName = "*.txt"
-        dateidialog.InitialDirectory = "Saves"
+        dateidialog.InitialDirectory = "..\..\Saves"
         If dateidialog.ShowDialog() = DialogResult.OK Then
             Save_txt.Text = dateidialog.FileName
         Else
